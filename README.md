@@ -1,6 +1,6 @@
 # DISCOS
 Hacking tools for different operating systems. (Linux/Windows/Android)
-
+https://github.com/CodingLeb/ddos-Apk-DISCOS-main/tree/main
 ## Hacking Tools List :
 ```
 Linux Tools : 
